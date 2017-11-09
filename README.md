@@ -115,12 +115,6 @@ hello hi
 <td>국내 전원구성 최적화 과정에서의 신재생에너지로 인한 리스크 변동분석</td>
 <td>ODF 오픈 데이터 포럼</td>
 </tr></tbody></table>
-</article>
-  </div>
 
-
-  </div>
   <div class="modal-backdrop js-touch-events"></div>
-</div>
 
-  </div>
