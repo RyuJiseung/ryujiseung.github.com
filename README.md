@@ -3,6 +3,8 @@
 hello hi
 
 [height](https://ryujiseung.github.io/height.html)
+[kaggle_EDA_1108](https://ryujiseung.github.io/kaggle_EDA_1108.html)
+[kaggle_EDA_all](https://ryujiseung.github.io/kaggle_EDA_all.html)
 
 # History
 
