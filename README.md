@@ -8,7 +8,7 @@ hello hi
 
 # History
 
-```markdown
+
 <스터디>
 
 | 날짜                   | 내용                                       |
@@ -42,4 +42,4 @@ hello hi
 | 2017.09.03-현재         | Kaggle competition : churn prediction    | kaggle        |
 | 2017.10.18-현재         | 국내 전원구성 최적화 과정에서의 신재생에너지로 인한 리스크 변동분석    | ODF 오픈 데이터 포럼 |
 
-```
+
